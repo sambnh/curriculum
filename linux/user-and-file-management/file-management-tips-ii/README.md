@@ -1,4 +1,4 @@
-name: file-management-tips-ii
+name: File Management Tips II
 
 description: Description of the workout goes here
 
